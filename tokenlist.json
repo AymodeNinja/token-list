@@ -1,0 +1,24 @@
+{
+  "name": "Solana Token List",
+  "logoURI": "https://solana.com/src/img/branding/solanaLogoMark.png",
+  "tags": {
+    "community-token": {
+      "name": "Community Token",
+      "description": "Tokens created by the community"
+    }
+  },
+  "timestamp": "2025-04-23T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 101,
+      "address": "634YBjGwGGzpB79cqiuZNWv5jxtDJiRMtEUf48uC6gRN",
+      "symbol": "NWC",
+      "name": "NinjaWolf Coin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/634YBjGwGGzpB79cqiuZNWv5jxtDJiRMtEUf48uC6gRN/logo.png",
+      "tags": [
+        "community-token"
+      ]
+    }
+  ]
+}
